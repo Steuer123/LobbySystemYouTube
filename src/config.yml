@@ -1,0 +1,5 @@
+# CONFIG
+
+Lobby:
+  JoinMessage: '&8[&b+&8] &b%player%'
+  LeaveMessage: '&8[&c-&8] &c%player%'

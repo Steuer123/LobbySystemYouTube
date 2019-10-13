@@ -1,0 +1,6 @@
+name: Lobby
+version: 1.0
+author: Steuer
+main: de.steuer.lobby.main.Main
+commands:
+  build:
